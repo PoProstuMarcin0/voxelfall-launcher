@@ -1,6 +1,6 @@
 {
-  "version": "release-1.0.0",
-  "download_url": "https://github.com/PoProstuMarcin0/voxelfall-launcher/releases/download/release1.0/voxelfall.1.0.zip",
+  "version": "patch 1.0.1",
+  "download_url": "https://github.com/PoProstuMarcin0/voxelfall-launcher/releases/download/1.0.1/voxelfall.1.0.1.zip",
   "message": "",
-  "update_notes": "\n releasing today! :D" 
+  "update_notes": "-patched: parkour mode \n -added new levels to the christmas event" 
 }
