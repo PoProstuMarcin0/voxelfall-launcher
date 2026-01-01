@@ -1,6 +1,6 @@
 {
-  "version": "patch 1.0.1",
-  "download_url": "https://github.com/PoProstuMarcin0/voxelfall-launcher/releases/download/1.0.1/voxelfall.1.0.1.zip",
+  "version": "v1.0.2",
+  "download_url": "https://github.com/PoProstuMarcin0/voxelfall-launcher/releases/download/1.0.2/voxelfall.1.0.2.zip",
   "message": "",
-  "update_notes": "-patched: parkour mode \n -added new levels to the christmas event" 
+  "update_notes": "added bars showing hp of animals, and breakale objects \n better post-processing \n improvde inventory \n and world generator \n also fixed some bugs \n X: WOW. COOL. But no one asked." 
 }
